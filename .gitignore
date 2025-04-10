@@ -1,0 +1,6 @@
+# Ignore build directory
+*.zip
+# Ignore Release zip
+/build
+# Ignore dist directory
+/dist
