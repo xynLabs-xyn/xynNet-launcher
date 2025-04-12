@@ -21,4 +21,4 @@ You can download the *Certificate Installer* and/or consider *Whitelisting* the 
 
 ### License  
 
-[xTOL 1.0](https://github.com/xynLabs-xyn/xynNotes?tab=License-1-ov-file#readme)
+[xTOL 1.0](https://github.com/xynLabs-xyn/xynNet-launcher?tab=License-1-ov-file#readme)
